@@ -1,0 +1,14 @@
+{
+  "project": "\u0010test_1",
+  "platform": "ios",
+  "github": {
+    "owner": "jogi-jogi",
+    "repo": "flutter-test"
+  },
+  "ios": {},
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
+}
