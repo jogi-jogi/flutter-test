@@ -5,7 +5,9 @@
     "owner": "jogi-jogi",
     "repo": "flutter-test"
   },
-  "ios": {},
+  "ios": {
+    "path": "ios"
+  },
   "flutter": {
     "watch": {}
   },
